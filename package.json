@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-save-timestamp",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Metalsmith plugin to save file timestamps as the date in gray matter content",
   "main": "index.js",
   "author": "Kennedy Rose <kennedy@kennedyrose.com> (https://kennedyrose.com)",
