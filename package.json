@@ -1,0 +1,16 @@
+{
+  "name": "metalsmith-save-timestamp",
+  "version": "0.0.0",
+  "description": "Metalsmith plugin to save file timestamps as the date in gray matter content",
+  "main": "index.js",
+  "author": "Kennedy Rose <kennedy@kennedyrose.com> (https://kennedyrose.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kennedyrose/metalsmith-save-timestamp.git"
+  },
+  "dependencies": {
+    "fs-extra": "^2.0.0",
+    "gray-matter": "^2.1.1"
+  }
+}
